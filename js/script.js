@@ -5,7 +5,7 @@ const products = [
   {
     id: 1, name: 'AirPulse Pro', category: 'Audio',
     price: 249, originalPrice: 299, rating: 4.8, reviews: 2453,
-    image: 'https://images.unsplash.com/photo-1590658268037-6bf12f032f55?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1573065370939-a6049e64b3d5?w=600&q=80',
     badge: 'Best Seller',
     description: 'Industry-leading active noise cancellation with adaptive transparency mode. Spatial audio with dynamic head tracking places sound all around you.',
     specs: { 'Driver': 'Custom H2 chip', 'Battery': '30h total', 'Water Resistant': 'IPX4', 'Weight': '5.3g each' }
@@ -13,7 +13,7 @@ const products = [
   {
     id: 2, name: 'Orbit Watch Ultra', category: 'Wearables',
     price: 599, originalPrice: null, rating: 4.7, reviews: 1820,
-    image: 'https://images.unsplash.com/photo-1546868871-af0de0ae72b7?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1762768771889-39edca398901?w=600&q=80',
     badge: 'New',
     description: 'Rugged titanium smartwatch with precision dual-frequency GPS, 100m water resistance, and a bright always-on Retina display.',
     specs: { 'Display': '1.92" LTPO OLED', 'Battery': '72h', 'Chip': 'S9 SiP', 'Material': 'Titanium' }
@@ -21,7 +21,7 @@ const products = [
   {
     id: 3, name: 'SkyView Drone 4K', category: 'Drones',
     price: 1299, originalPrice: 1499, rating: 4.9, reviews: 876,
-    image: 'https://images.unsplash.com/photo-1507582020474-9a35b7d455d9?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1658065632912-102eb5720477?w=600&q=80',
     badge: 'Hot Deal',
     description: 'Compact 4K HDR drone with omnidirectional obstacle sensing and 30-min flight time. Capture cinematic footage with ease.',
     specs: { 'Camera': '4K HDR @60fps', 'Flight Time': '30 min', 'Range': '12 km', 'Weight': '249g' }
@@ -45,7 +45,7 @@ const products = [
   {
     id: 6, name: 'NovaTab Pro 13', category: 'Tablets',
     price: 1099, originalPrice: null, rating: 4.6, reviews: 2104,
-    image: 'https://images.unsplash.com/photo-1561154153-e0b2e3a8bd8d?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1585789575907-1cce3586e3a6?w=600&q=80',
     badge: null,
     description: 'Pro-grade tablet with M4 chip, Ultra Retina XDR display, and Apple Pencil Pro support. Perfect for creative professionals.',
     specs: { 'Chip': 'M4', 'Display': '13" 2752×2064', 'Storage': '256GB', 'Battery': '12h' }
@@ -53,7 +53,7 @@ const products = [
   {
     id: 7, name: 'Pulse Elite ANC', category: 'Audio',
     price: 349, originalPrice: 399, rating: 4.7, reviews: 1823,
-    image: 'https://images.unsplash.com/photo-1505740422105-5d6b15e5e7a2?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1496957961599-e35b69ef5d7c?w=600&q=80',
     badge: null,
     description: 'Premium wireless over-ear headphones with adaptive noise cancellation, 40-hour battery, and lossless audio via USB-C.',
     specs: { 'Driver': '40mm custom', 'Battery': '40h', 'Codec': 'LDAC, AAC', 'Weight': '250g' }
